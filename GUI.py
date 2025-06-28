@@ -7,7 +7,7 @@ from PyQt5.QtGui import QFont
 from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import Qt
 import numpy as np
-import SUPP_SCRIPTS as mds
+import SUPP_SCRIPTS as mds 
 import mne
 from mne.preprocessing import ICA
 import matplotlib
